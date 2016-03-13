@@ -6,8 +6,8 @@
     <atom:link href="http://zavakid.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>zh-CN</language>
-    <pubDate>星期日, 13 三月 2016 20:03:54 +0800</pubDate>
-    <lastBuildDate>星期日, 13 三月 2016 20:03:54 +0800</lastBuildDate>
+    <pubDate>星期日, 13 三月 2016 20:08:05 +0800</pubDate>
+    <lastBuildDate>星期日, 13 三月 2016 20:08:05 +0800</lastBuildDate>
 
     <item>
       <title>Hello,world</title>
@@ -15,7 +15,7 @@
       <pubDate>星期六, 12 三月 2016 00:00:00 +0800</pubDate>
       <guid isPermaLink="false">blog/hello-world.html</guid>
       	<description>
-	&lt;p&gt;reloading...&lt;/p&gt;
+	&lt;p&gt;alpha beta is reloading...&lt;/p&gt;
 	</description>
     </item>
 
