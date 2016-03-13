@@ -4,7 +4,7 @@
     
     <div id="footer">
       <div class="container">
-        <p class="muted credit"></p>
+        <p class="muted credit">powered by <a href="http://jbake.org" target="_blank">JBake</a></p>
       </div>
     </div>
     
