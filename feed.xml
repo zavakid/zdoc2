@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>听者有心</title>
-    <link>http://www.zavakid.com</link>
-    <atom:link href="http://www.zavakid.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://zavakid.com</link>
+    <atom:link href="http://zavakid.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>zh-CN</language>
-    <pubDate>星期日, 13 三月 2016 19:55:13 +0800</pubDate>
-    <lastBuildDate>星期日, 13 三月 2016 19:55:13 +0800</lastBuildDate>
+    <pubDate>星期日, 13 三月 2016 20:03:54 +0800</pubDate>
+    <lastBuildDate>星期日, 13 三月 2016 20:03:54 +0800</lastBuildDate>
 
     <item>
       <title>Hello,world</title>
-      <link>http://www.zavakid.com/blog/hello-world.html</link>
+      <link>http://zavakid.com/blog/hello-world.html</link>
       <pubDate>星期六, 12 三月 2016 00:00:00 +0800</pubDate>
       <guid isPermaLink="false">blog/hello-world.html</guid>
       	<description>
